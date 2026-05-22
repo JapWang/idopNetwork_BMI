@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Official Python implementation of **idopNetwork** — a quantitative framework to reconstruct **dynamic, directed, weighted** interaction networks of clinical laboratory indicators across BMI strata (Underweight, Normal, Overweight, Obesity).
+**idopNetwork** — a quantitative framework to reconstruct **dynamic, directed, weighted** interaction networks of clinical laboratory indicators across BMI strata (Underweight, Normal, Overweight, Obesity).
 
 ## 1. Project overview
 
