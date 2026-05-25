@@ -109,12 +109,6 @@ python bootstrap_edge_stability.py
 
 Writes under `results/`: `bootstrap_edge_frequency.csv`, `bootstrap_stable_network.csv`, `bootstrap_summary.txt`.
 
-### Interactive UI
-
-```bash
-streamlit run streamlit_app.py
-```
-
 ---
 
 ## 5. `main.py` workflow (step by step)
