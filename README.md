@@ -263,18 +263,6 @@ Set `True` when the first CSV column is sample ID (use `index_col=0` in `load_cl
 
 ---
 
-## 9. Citation
-
-If you use this code, please cite:
-
-```bibtex
-@article{idop2026,
-  title={Topological Deadlock in Obesity: idopNetwork Reveals Systemic Regulatory Collapse via Path Homology},
-  author={Jiapeng Wang, Yu Wang},
-  journal={Journal of Translational Medicine},
-  year={2026}
-}
 ```
-
 **Contact:** 19553751383@163.com  
 **Affiliation:** Inner Mongolia Normal University
